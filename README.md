@@ -93,6 +93,7 @@ Are you getting weird deserialization issues? Did our procedural macro throw a c
 ## A Quick Refresher on Supported Languages
 
 - Kotlin
+- Scala
 - Swift
 - Typescript
 - Go**
